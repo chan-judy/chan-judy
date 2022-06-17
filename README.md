@@ -2,7 +2,7 @@
             
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=F9D4D4&height=120&section=header&text=ChanJoo%20Kim&fontSize=45)
 
-### Hi there 👋
+## 👋 Hi there, I'm Chanjoo. 👋
 
 
 
