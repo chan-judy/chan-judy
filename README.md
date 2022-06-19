@@ -33,8 +33,8 @@
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 <br><br><br>            
-![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=judy-dydy&show_icons=true&theme=calm)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judy-dydy)](https://github.com/judy-dydy/github-readme-stats)
+![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-judy&show_icons=true&theme=calm)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-judy)](https://github.com/chan-judy/github-readme-stats)
 
 
 
