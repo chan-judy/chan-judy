@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=F9D4D4&height=280&section=header&text=ChanJoo%20Kim&fontSize=80&fontColor=585858)
 
 ## 👋 Hi there, I'm Chanjoo. 👋
-♥ I'm junior Back-End developer
+♥ I wanna Full-Stack Developer
 
 
 <br><br>
