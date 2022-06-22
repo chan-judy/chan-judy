@@ -35,7 +35,7 @@
 
 <br><br><br>      
 
-![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-judy&show_icons=true&theme=calm) 
+![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-judy&show_icons=true&theme=calm&align=right) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-judy&layout=compact&theme=calm)
 
             
