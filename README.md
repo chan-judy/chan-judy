@@ -34,9 +34,9 @@
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 <br><br><br>      
+<a href="https://github.com/chan-judy"><img align="center" style="width:400px" src="https://github-readme-stats.vercel.app/api?username=chan-judy&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="Judy's github stats" /></a>
+<a href="https://github.com/chan-judy"><img align="center" style="width:400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan-judy&layout=compact&theme=calm&hide_border=true" /></a> 
 
-![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-judy&show_icons=true&theme=calm&width=80%&height=80%) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chan-judy&layout=compact&theme=calm)
 
             
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchan-judy%2Fhit-counter&count_bg=%23EED0FF&title_bg=%23626262&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> 
